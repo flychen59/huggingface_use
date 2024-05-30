@@ -39,3 +39,6 @@ Open your github account -> go to setting -> SSH and GPG Key
 Click on new SSH key button
 
 Paste your complete key from point 5 and add any title in SSH
+
+
+#如果遇到clone文件中的各种特殊字符串的问题参考https://www.cnblogs.com/St-Lovaer/p/15680511.html
