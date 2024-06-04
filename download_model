@@ -1,0 +1,5 @@
+ssh -T git@hf.co
+
+pip install -U huggingface_hub
+
+huggingface-cli download --resume-download bigscience/bloom-560m --local-dir bloom-560m
