@@ -1,6 +1,6 @@
 pip install -U huggingface_hub
 
-ssh-keygen -t ed25519 -C "chenyipeng0509@gmail.com"
+ssh-keygen -t ed25519 -C "yourusename@gmail.com"
 （一直空格就好）
 
 apt-get install git-lfs
