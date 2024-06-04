@@ -3,6 +3,8 @@ pip install -U huggingface_hub
 ssh-keygen -t ed25519 -C "chenyipeng0509@gmail.com"
 （一直空格就好）
 
+apt-get install git-lfs
+
 ssh -T git@hf.co
 
 export HF_ENDPOINT="https://hf-mirror.com"
