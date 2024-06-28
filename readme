@@ -19,7 +19,7 @@ apt-get update
 apt-get install git-lfs 
 git lfs install
 
-#step4
+#step5
 git clone 对应库的链接
 
 
