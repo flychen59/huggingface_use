@@ -15,6 +15,8 @@ At the prompt, type a secure passphrase. For more information, see "Working with
 source /etc/network_turbo
 
 #step4
+apt-get update
+apt-get install git-lfs 
 git lfs install
 
 #step4
